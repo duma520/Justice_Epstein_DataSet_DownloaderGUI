@@ -187,7 +187,7 @@ https://wikiepstein.com/
 4. **找到下载的文件**
    ```
    文件默认下载到：
-   G:\Python_Code\BatchDownloaderGUI\DataSet9\
+   你的项目目录\BatchDownloaderGUI\DataSet9\
    
    如果你修改了代码，请查看第30行的download_dir变量
    ```
@@ -213,7 +213,7 @@ https://wikiepstein.com/
 ```python
 # 找到对应数据集的download_dir变量
 # DataSet 9在第161行
-download_dir = "G:\\Python_Code\\BatchDownloaderGUI\\DataSet9"
+download_dir = "D:\\Projects\\BatchDownloaderGUI\\DataSet9"
 
 # 改为你的路径（注意使用双反斜杠）
 download_dir = "D:\\我的文档\\Epstein文件\\DataSet9"
